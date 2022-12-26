@@ -1,3 +1,5 @@
+package Exercices;
+
 public class CurrencyChange {
     // Section 4 - exercice 1
 

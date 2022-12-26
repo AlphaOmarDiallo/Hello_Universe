@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f2d0e49-1a92-4782-b6d0-c2abe7354920" name="Changes" comment="Section 4 over" />
+    <list default="true" id="1f2d0e49-1a92-4782-b6d0-c2abe7354920" name="Changes" comment="Section 4 over">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrencyChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices/CurrencyChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Universe/HelloUniverse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JRXN1aqnU5noKy4yXp19NvxXSY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -39,14 +45,14 @@
 }]]></component>
   <component name="RunManager" selected="Application.HelloUniverse">
     <configuration name="CurrencyChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CurrencyChange" />
+      <option name="MAIN_CLASS_NAME" value="Exercices.CurrencyChange" />
       <module name="Hello Universe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HelloUniverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloUniverse" />
+      <option name="MAIN_CLASS_NAME" value="Universe.HelloUniverse" />
       <module name="Hello Universe" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672045393609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Section 4 over">
+      <created>1672045400173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672045400173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
