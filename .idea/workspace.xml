@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f2d0e49-1a92-4782-b6d0-c2abe7354920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello Universe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CurrencyChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
-    </list>
+    <list default="true" id="1f2d0e49-1a92-4782-b6d0-c2abe7354920" name="Changes" comment="Section 4 over" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +68,18 @@
       <option name="presentableId" value="Default" />
       <updated>1672041837803</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 4 over">
+      <created>1672045393609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672045393609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 4 over" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 4 over" />
   </component>
 </project>
